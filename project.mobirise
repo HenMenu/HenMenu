@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-17_2112",
-    "currentPage": "Forum.html",
+    "currentPage": "Announcements.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3790,7 +3790,7 @@
     "Forum Rules.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Foro Respuesta:&nbsp; Forum Rules",
+        "title": "Forum Rules",
         "order": 2
       },
       "components": [
