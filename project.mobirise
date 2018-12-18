@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-17_2112",
-    "currentPage": "index.html",
+    "currentPage": "Downloads.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#000000",
         "#16ff00",
         "#9c00ff",
         "#b900ff",
         "#262626",
         "#333333",
-        "#2d2d2d",
-        "#329dde"
+        "#2d2d2d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1826,7 +1826,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "text-align": "center"
             },
             "H4": {
